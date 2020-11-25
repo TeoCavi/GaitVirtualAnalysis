@@ -1,0 +1,24 @@
+Anthropometric data for calculating body segment parameters.
+Cerebral Palsy Adult
+Number  Anthropometric Measurement                           Value  Units
+  1     Total body mass                                      69.50   kg
+  2     ASIS breadth                                         0.250    m
+  3     R.Thigh length                                       0.393    m
+  4     L.Thigh length                                       0.415    m
+  5     R.Mid-thigh circumference                            0.524    m
+  6     L.Mid-thigh circumference                            0.513    m
+  7     R.Calf length                                        0.405    m
+  8     L.Calf length                                        0.397    m
+  9     R.Calf circumference                                 0.292    m
+ 10     L.Calf circumference                                 0.319    m
+ 11     R.Knee diameter                                      0.114    m
+ 12     L.Knee diameter                                      0.110    m
+ 13     R.Foot length                                        0.238    m
+ 14     L.Foot length                                        0.243    m
+ 15     R.Malleolus height                                   0.065    m
+ 16     L.Malleolus height                                   0.067    m
+ 17     R.Malleolus diameter                                 0.072    m
+ 18     L.Malleolus diameter                                 0.066    m
+ 19     R.Foot breadth                                       0.084    m
+ 20     L.Foot breadth                                       0.083    m
+END OF FILE

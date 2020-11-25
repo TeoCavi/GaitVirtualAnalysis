@@ -1,0 +1,459 @@
+Three dimensional force plate data
+Cerebral Palsy Adult
+
+TIME 0.00 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.02 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0      -4      23       0.053   0.219        1.554
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.04 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0     -31     340       0.117   0.218        7.767
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.06 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1   -112     -19     592       0.134   0.218        0.682
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.08 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1   -132     -22     641       0.142   0.218        0.639
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.10 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1   -135       3     656       0.144   0.219       -4.732
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.12 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1   -129      36     723       0.145   0.219      -11.021
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.14 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1   -117      54     802       0.147   0.220      -13.450
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.16 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1   -103      47     842       0.149   0.221      -10.704
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.18 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1    -83      32     827       0.150   0.222       -6.820
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.20 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1    -59      24     757       0.152   0.223       -4.796
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.22 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1    -39      17     661       0.154   0.225       -3.241
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.24 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1    -19      12     570       0.155   0.226       -2.012
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.26 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     -3       3     498       0.155   0.228       -0.300
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.28 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     11       0     448       0.156   0.232        0.656
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.30 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     19       0     417       0.158   0.232        1.032
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.32 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     24       3     412       0.160   0.232        1.030
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.34 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     29       7     427       0.162   0.229        1.259
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.36 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     36      10     450       0.165   0.229        1.774
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.38 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     43      14     481       0.171   0.229        2.128
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.40 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     47      22     521       0.176   0.229        1.796
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.42 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     54      32     587       0.181   0.231        1.341
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.44 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     66      39     674       0.187   0.231        1.340
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.46 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     74      41     720       0.198   0.235        1.934
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.48 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     73      38     712       0.215   0.235        2.899
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 0.50 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     72      35     689       0.234   0.241        2.342
+ Plate 2     23       0     185       0.710   0.384       -6.539
+
+
+TIME 0.52 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     87      29     658       0.246   0.244        0.310
+ Plate 2    -69     -23     416       0.718   0.389       24.873
+
+
+TIME 0.54 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     96      13     567       0.251   0.247       -0.438
+ Plate 2   -108     -27     459       0.726   0.393       37.677
+
+
+TIME 0.56 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     87      -3     405       0.256   0.250       -1.522
+ Plate 2   -130     -33     530       0.732   0.393       45.370
+
+
+TIME 0.58 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     56      -9     221       0.259   0.252       -1.158
+ Plate 2   -127     -42     632       0.734   0.392       45.134
+
+
+TIME 0.60 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1     24      -7      85       0.263   0.254       -0.586
+ Plate 2   -113     -51     720       0.735   0.391       41.192
+
+
+TIME 0.62 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      6      -3      27       0.276   0.224       -0.020
+ Plate 2    -92     -56     761       0.736   0.391       34.819
+
+
+TIME 0.64 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0      -1       9       0.254   0.223       -0.000
+ Plate 2    -69     -64     761       0.737   0.392       27.764
+
+
+TIME 0.66 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2    -47     -70     742       0.738   0.392       20.659
+
+
+TIME 0.68 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2    -29     -69     713       0.740   0.392       14.303
+
+
+TIME 0.70 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2    -14     -60     672       0.741   0.392        8.993
+
+
+TIME 0.72 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     -1     -50     629       0.744   0.391        4.588
+
+
+TIME 0.74 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     10     -39     584       0.747   0.391        0.489
+
+
+TIME 0.76 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     20     -34     543       0.751   0.392       -2.778
+
+
+TIME 0.78 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     28     -33     502       0.755   0.392       -6.203
+
+
+TIME 0.80 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     33     -33     473       0.762   0.393       -8.570
+
+
+TIME 0.82 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     35     -33     459       0.768   0.394      -10.190
+
+
+TIME 0.84 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     35     -34     459       0.779   0.396      -11.760
+
+
+TIME 0.86 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     35     -36     468       0.789   0.398      -13.151
+
+
+TIME 0.88 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     37     -40     491       0.798   0.399      -15.830
+
+
+TIME 0.90 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     44     -46     541       0.804   0.400      -20.689
+
+
+TIME 0.92 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     57     -54     616       0.810   0.399      -27.448
+
+
+TIME 0.94 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     66     -65     680       0.818   0.399      -33.100
+
+
+TIME 0.96 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     71     -73     711       0.830   0.399      -37.013
+
+
+TIME 0.98 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     89     -69     720       0.838   0.399      -43.061
+
+
+TIME 1.00 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2    109     -52     672       0.844   0.397      -47.696
+
+
+TIME 1.02 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2    118     -28     556       0.851   0.397      -46.516
+
+
+TIME 1.04 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2    105      -4     381       0.857   0.397      -37.270
+
+
+TIME 1.06 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     66       9     185       0.865   0.403      -21.168
+
+
+TIME 1.08 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2     25       9      61       0.875   0.425       -7.030
+
+
+TIME 1.10 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      3       5      20       0.861   0.438       -0.138
+
+
+TIME 1.12 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       1       4       0.762   0.560       -0.000
+
+
+TIME 1.14 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.16 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.18 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.20 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.22 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.24 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.26 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.28 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.30 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.32 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.34 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.36 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.38 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.40 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.42 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.44 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.46 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.48 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+
+TIME 1.50 SECONDS
+Number      FX (N)  FY (N)  FZ (N)    DX (m)  DY (m)     TZ (Nm)
+ Plate 1      0       0       0       0.000   0.000        0.000
+ Plate 2      0       0       0       0.000   0.000        0.000
+
+END OF FILE

@@ -1,0 +1,954 @@
+Three dimensional displacement data of external landmarks.
+Normal Female
+
+TIME 0.00 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.318     0.178     0.050
+ 2     R.Heel                             0.178     0.241     0.037
+ 3     R.Lateral Malleolus                0.200     0.212     0.071
+ 4     R.Tibial Tubercle                  0.159     0.230     0.375
+ 5     R.Femoral Epicondyle               0.118     0.185     0.436
+ 6     R.Greater Trochanter              -0.032     0.116     0.760
+ 7     R.ASIS                             0.001     0.188     0.875
+ 8     L.Metatarsal Head V               -0.417     0.396     0.023
+ 9     L.Heel                            -0.482     0.327     0.155
+10     L.Lateral Malleolus               -0.457     0.389     0.140
+11     L.Tibial Tubercle                 -0.245     0.351     0.372
+12     L.Femoral Epicondyle              -0.261     0.411     0.412
+13     L.Greater Trochanter              -0.104     0.490     0.764
+14     L.ASIS                            -0.025     0.434     0.880
+15     Sacrum                            -0.184     0.267     0.883
+
+
+TIME 0.02 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.327     0.186     0.024
+ 2     R.Heel                             0.186     0.251     0.030
+ 3     R.Lateral Malleolus                0.213     0.221     0.058
+ 4     R.Tibial Tubercle                  0.190     0.231     0.367
+ 5     R.Femoral Epicondyle               0.156     0.188     0.430
+ 6     R.Greater Trochanter               0.009     0.118     0.761
+ 7     R.ASIS                             0.042     0.187     0.872
+ 8     L.Metatarsal Head V               -0.412     0.392     0.027
+ 9     L.Heel                            -0.465     0.358     0.170
+10     L.Lateral Malleolus               -0.441     0.393     0.152
+11     L.Tibial Tubercle                 -0.210     0.350     0.365
+12     L.Femoral Epicondyle              -0.222     0.407     0.406
+13     L.Greater Trochanter              -0.065     0.490     0.756
+14     L.ASIS                             0.012     0.430     0.875
+15     Sacrum                            -0.145     0.277     0.880
+
+
+TIME 0.04 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.339     0.185     0.015
+ 2     R.Heel                             0.198     0.248     0.036
+ 3     R.Lateral Malleolus                0.231     0.215     0.060
+ 4     R.Tibial Tubercle                  0.226     0.230     0.365
+ 5     R.Femoral Epicondyle               0.187     0.187     0.429
+ 6     R.Greater Trochanter               0.052     0.114     0.761
+ 7     R.ASIS                             0.082     0.185     0.871
+ 8     L.Metatarsal Head V               -0.410     0.392     0.032
+ 9     L.Heel                            -0.444     0.349     0.187
+10     L.Lateral Malleolus               -0.415     0.392     0.160
+11     L.Tibial Tubercle                 -0.171     0.346     0.355
+12     L.Femoral Epicondyle              -0.177     0.403     0.396
+13     L.Greater Trochanter              -0.023     0.484     0.749
+14     L.ASIS                             0.056     0.424     0.872
+15     Sacrum                            -0.108     0.282     0.878
+
+
+TIME 0.06 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.341     0.185     0.005
+ 2     R.Heel                             0.200     0.246     0.037
+ 3     R.Lateral Malleolus                0.237     0.216     0.062
+ 4     R.Tibial Tubercle                  0.259     0.230     0.376
+ 5     R.Femoral Epicondyle               0.230     0.189     0.436
+ 6     R.Greater Trochanter               0.090     0.112     0.766
+ 7     R.ASIS                             0.119     0.185     0.870
+ 8     L.Metatarsal Head V               -0.404     0.393     0.037
+ 9     L.Heel                            -0.406     0.350     0.201
+10     L.Lateral Malleolus               -0.382     0.397     0.167
+11     L.Tibial Tubercle                 -0.124     0.344     0.344
+12     L.Femoral Epicondyle              -0.126     0.399     0.387
+13     L.Greater Trochanter               0.019     0.480     0.739
+14     L.ASIS                             0.097     0.415     0.869
+15     Sacrum                            -0.070     0.287     0.876
+
+
+TIME 0.08 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.343     0.185     0.002
+ 2     R.Heel                             0.204     0.245     0.039
+ 3     R.Lateral Malleolus                0.240     0.214     0.064
+ 4     R.Tibial Tubercle                  0.289     0.235     0.372
+ 5     R.Femoral Epicondyle               0.266     0.191     0.435
+ 6     R.Greater Trochanter               0.125     0.108     0.772
+ 7     R.ASIS                             0.155     0.180     0.873
+ 8     L.Metatarsal Head V               -0.387     0.393     0.052
+ 9     L.Heel                            -0.357     0.351     0.214
+10     L.Lateral Malleolus               -0.342     0.400     0.174
+11     L.Tibial Tubercle                 -0.091     0.352     0.328
+12     L.Femoral Epicondyle              -0.066     0.397     0.375
+13     L.Greater Trochanter               0.062     0.475     0.732
+14     L.ASIS                             0.134     0.411     0.866
+15     Sacrum                            -0.035     0.284     0.875
+
+
+TIME 0.10 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.343     0.185     0.000
+ 2     R.Heel                             0.206     0.245     0.042
+ 3     R.Lateral Malleolus                0.242     0.216     0.063
+ 4     R.Tibial Tubercle                  0.305     0.230     0.367
+ 5     R.Femoral Epicondyle               0.285     0.190     0.431
+ 6     R.Greater Trochanter               0.156     0.102     0.776
+ 7     R.ASIS                             0.190     0.175     0.877
+ 8     L.Metatarsal Head V               -0.352     0.396     0.071
+ 9     L.Heel                            -0.301     0.354     0.228
+10     L.Lateral Malleolus               -0.292     0.400     0.185
+11     L.Tibial Tubercle                 -0.027     0.350     0.322
+12     L.Femoral Epicondyle              -0.003     0.396     0.365
+13     L.Greater Trochanter               0.105     0.466     0.727
+14     L.ASIS                             0.170     0.406     0.865
+15     Sacrum                             0.000     0.284     0.875
+
+
+TIME 0.12 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.343     0.184     0.000
+ 2     R.Heel                             0.205     0.245     0.042
+ 3     R.Lateral Malleolus                0.244     0.216     0.063
+ 4     R.Tibial Tubercle                  0.320     0.230     0.364
+ 5     R.Femoral Epicondyle               0.298     0.187     0.429
+ 6     R.Greater Trochanter               0.186     0.100     0.781
+ 7     R.ASIS                             0.223     0.174     0.884
+ 8     L.Metatarsal Head V               -0.298     0.399     0.086
+ 9     L.Heel                            -0.251     0.356     0.246
+10     L.Lateral Malleolus               -0.239     0.398     0.200
+11     L.Tibial Tubercle                  0.035     0.350     0.319
+12     L.Femoral Epicondyle               0.057     0.393     0.360
+13     L.Greater Trochanter               0.142     0.459     0.732
+14     L.ASIS                             0.204     0.405     0.870
+15     Sacrum                             0.032     0.276     0.878
+
+
+TIME 0.14 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.342     0.179     0.002
+ 2     R.Heel                             0.207     0.246     0.042
+ 3     R.Lateral Malleolus                0.244     0.215     0.063
+ 4     R.Tibial Tubercle                  0.328     0.228     0.362
+ 5     R.Femoral Epicondyle               0.309     0.186     0.426
+ 6     R.Greater Trochanter               0.215     0.097     0.787
+ 7     R.ASIS                             0.255     0.172     0.890
+ 8     L.Metatarsal Head V               -0.229     0.402     0.095
+ 9     L.Heel                            -0.199     0.350     0.254
+10     L.Lateral Malleolus               -0.179     0.394     0.213
+11     L.Tibial Tubercle                  0.109     0.353     0.324
+12     L.Femoral Epicondyle               0.122     0.394     0.364
+13     L.Greater Trochanter               0.180     0.453     0.735
+14     L.ASIS                             0.240     0.395     0.876
+15     Sacrum                             0.066     0.280     0.881
+
+
+TIME 0.16 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.342     0.184     0.000
+ 2     R.Heel                             0.206     0.246     0.042
+ 3     R.Lateral Malleolus                0.244     0.213     0.064
+ 4     R.Tibial Tubercle                  0.338     0.227     0.361
+ 5     R.Femoral Epicondyle               0.317     0.185     0.426
+ 6     R.Greater Trochanter               0.243     0.095     0.790
+ 7     R.ASIS                             0.288     0.171     0.895
+ 8     L.Metatarsal Head V               -0.150     0.404     0.099
+ 9     L.Heel                            -0.137     0.341     0.256
+10     L.Lateral Malleolus               -0.113     0.387     0.218
+11     L.Tibial Tubercle                  0.172     0.350     0.329
+12     L.Femoral Epicondyle               0.188     0.393     0.368
+13     L.Greater Trochanter               0.213     0.453     0.744
+14     L.ASIS                             0.269     0.407     0.884
+15     Sacrum                             0.098     0.280     0.888
+
+
+TIME 0.18 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.343     0.180     0.002
+ 2     R.Heel                             0.208     0.248     0.043
+ 3     R.Lateral Malleolus                0.244     0.215     0.064
+ 4     R.Tibial Tubercle                  0.343     0.224     0.358
+ 5     R.Femoral Epicondyle               0.323     0.185     0.423
+ 6     R.Greater Trochanter               0.275     0.098     0.794
+ 7     R.ASIS                             0.320     0.170     0.902
+ 8     L.Metatarsal Head V               -0.067     0.411     0.099
+ 9     L.Heel                            -0.072     0.335     0.251
+10     L.Lateral Malleolus               -0.046     0.380     0.217
+11     L.Tibial Tubercle                  0.237     0.350     0.336
+12     L.Femoral Epicondyle               0.252     0.392     0.378
+13     L.Greater Trochanter               0.245     0.456     0.755
+14     L.ASIS                             0.303     0.407     0.891
+15     Sacrum                             0.131     0.276     0.895
+
+
+TIME 0.20 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.343     0.184     0.000
+ 2     R.Heel                             0.209     0.248     0.044
+ 3     R.Lateral Malleolus                0.244     0.214     0.065
+ 4     R.Tibial Tubercle                  0.347     0.225     0.361
+ 5     R.Femoral Epicondyle               0.328     0.184     0.425
+ 6     R.Greater Trochanter               0.303     0.098     0.794
+ 7     R.ASIS                             0.350     0.170     0.908
+ 8     L.Metatarsal Head V                0.020     0.416     0.098
+ 9     L.Heel                            -0.007     0.330     0.235
+10     L.Lateral Malleolus                0.025     0.375     0.210
+11     L.Tibial Tubercle                  0.304     0.353     0.345
+12     L.Femoral Epicondyle               0.315     0.396     0.389
+13     L.Greater Trochanter               0.277     0.460     0.765
+14     L.ASIS                             0.336     0.406     0.900
+15     Sacrum                             0.162     0.278     0.902
+
+
+TIME 0.22 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.344     0.180     0.002
+ 2     R.Heel                             0.211     0.249     0.047
+ 3     R.Lateral Malleolus                0.245     0.216     0.068
+ 4     R.Tibial Tubercle                  0.352     0.222     0.360
+ 5     R.Femoral Epicondyle               0.333     0.182     0.425
+ 6     R.Greater Trochanter               0.333     0.098     0.795
+ 7     R.ASIS                             0.382     0.171     0.913
+ 8     L.Metatarsal Head V                0.110     0.415     0.086
+ 9     L.Heel                             0.062     0.326     0.216
+10     L.Lateral Malleolus                0.098     0.370     0.195
+11     L.Tibial Tubercle                  0.374     0.354     0.356
+12     L.Femoral Epicondyle               0.374     0.395     0.399
+13     L.Greater Trochanter               0.313     0.458     0.773
+14     L.ASIS                             0.368     0.405     0.907
+15     Sacrum                             0.194     0.277     0.907
+
+
+TIME 0.24 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.345     0.181     0.004
+ 2     R.Heel                             0.212     0.252     0.052
+ 3     R.Lateral Malleolus                0.248     0.218     0.072
+ 4     R.Tibial Tubercle                  0.355     0.223     0.363
+ 5     R.Femoral Epicondyle               0.339     0.181     0.427
+ 6     R.Greater Trochanter               0.363     0.099     0.797
+ 7     R.ASIS                             0.418     0.169     0.914
+ 8     L.Metatarsal Head V                0.204     0.415     0.069
+ 9     L.Heel                             0.139     0.328     0.190
+10     L.Lateral Malleolus                0.178     0.369     0.174
+11     L.Tibial Tubercle                  0.434     0.355     0.363
+12     L.Femoral Epicondyle               0.431     0.395     0.406
+13     L.Greater Trochanter               0.348     0.459     0.778
+14     L.ASIS                             0.397     0.404     0.912
+15     Sacrum                             0.226     0.277     0.913
+
+
+TIME 0.26 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.344     0.182     0.003
+ 2     R.Heel                             0.214     0.256     0.058
+ 3     R.Lateral Malleolus                0.250     0.225     0.075
+ 4     R.Tibial Tubercle                  0.363     0.222     0.362
+ 5     R.Femoral Epicondyle               0.346     0.183     0.430
+ 6     R.Greater Trochanter               0.392     0.103     0.799
+ 7     R.ASIS                             0.449     0.168     0.914
+ 8     L.Metatarsal Head V                0.302     0.416     0.055
+ 9     L.Heel                             0.217     0.332     0.159
+10     L.Lateral Malleolus                0.261     0.368     0.151
+11     L.Tibial Tubercle                  0.492     0.356     0.370
+12     L.Femoral Epicondyle               0.483     0.395     0.414
+13     L.Greater Trochanter               0.385     0.459     0.782
+14     L.ASIS                             0.431     0.401     0.912
+15     Sacrum                             0.258     0.283     0.915
+
+
+TIME 0.28 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.343     0.183     0.003
+ 2     R.Heel                             0.216     0.258     0.066
+ 3     R.Lateral Malleolus                0.252     0.225     0.083
+ 4     R.Tibial Tubercle                  0.370     0.219     0.365
+ 5     R.Femoral Epicondyle               0.354     0.178     0.433
+ 6     R.Greater Trochanter               0.424     0.105     0.797
+ 7     R.ASIS                             0.479     0.167     0.913
+ 8     L.Metatarsal Head V                0.408     0.418     0.038
+ 9     L.Heel                             0.300     0.336     0.128
+10     L.Lateral Malleolus                0.348     0.370     0.127
+11     L.Tibial Tubercle                  0.548     0.350     0.377
+12     L.Femoral Epicondyle               0.535     0.392     0.418
+13     L.Greater Trochanter               0.421     0.459     0.781
+14     L.ASIS                             0.464     0.401     0.912
+15     Sacrum                             0.290     0.286     0.916
+
+
+TIME 0.30 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.344     0.183     0.006
+ 2     R.Heel                             0.220     0.259     0.072
+ 3     R.Lateral Malleolus                0.255     0.224     0.090
+ 4     R.Tibial Tubercle                  0.383     0.220     0.365
+ 5     R.Femoral Epicondyle               0.368     0.179     0.436
+ 6     R.Greater Trochanter               0.450     0.103     0.796
+ 7     R.ASIS                             0.510     0.165     0.910
+ 8     L.Metatarsal Head V                0.517     0.417     0.027
+ 9     L.Heel                             0.393     0.340     0.100
+10     L.Lateral Malleolus                0.442     0.373     0.104
+11     L.Tibial Tubercle                  0.595     0.348     0.380
+12     L.Femoral Epicondyle               0.581     0.392     0.420
+13     L.Greater Trochanter               0.425     0.443     0.778
+14     L.ASIS                             0.502     0.400     0.912
+15     Sacrum                             0.321     0.290     0.915
+
+
+TIME 0.32 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.342     0.188     0.003
+ 2     R.Heel                             0.220     0.257     0.078
+ 3     R.Lateral Malleolus                0.256     0.222     0.094
+ 4     R.Tibial Tubercle                  0.392     0.219     0.369
+ 5     R.Femoral Epicondyle               0.381     0.175     0.437
+ 6     R.Greater Trochanter               0.477     0.103     0.794
+ 7     R.ASIS                             0.536     0.168     0.909
+ 8     L.Metatarsal Head V                0.625     0.418     0.022
+ 9     L.Heel                             0.488     0.343     0.074
+10     L.Lateral Malleolus                0.537     0.374     0.086
+11     L.Tibial Tubercle                  0.647     0.345     0.383
+12     L.Femoral Epicondyle               0.625     0.391     0.422
+13     L.Greater Trochanter               0.492     0.460     0.779
+14     L.ASIS                             0.536     0.400     0.909
+15     Sacrum                             0.352     0.293     0.911
+
+
+TIME 0.34 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.344     0.188     0.004
+ 2     R.Heel                             0.223     0.254     0.086
+ 3     R.Lateral Malleolus                0.257     0.219     0.100
+ 4     R.Tibial Tubercle                  0.402     0.218     0.368
+ 5     R.Femoral Epicondyle               0.395     0.177     0.438
+ 6     R.Greater Trochanter               0.503     0.100     0.792
+ 7     R.ASIS                             0.567     0.165     0.903
+ 8     L.Metatarsal Head V                0.734     0.415     0.026
+ 9     L.Heel                             0.587     0.345     0.056
+10     L.Lateral Malleolus                0.636     0.376     0.075
+11     L.Tibial Tubercle                  0.690     0.343     0.387
+12     L.Femoral Epicondyle               0.664     0.390     0.421
+13     L.Greater Trochanter               0.529     0.461     0.777
+14     L.ASIS                             0.571     0.400     0.906
+15     Sacrum                             0.383     0.298     0.908
+
+
+TIME 0.36 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.344     0.182     0.009
+ 2     R.Heel                             0.227     0.252     0.095
+ 3     R.Lateral Malleolus                0.262     0.218     0.107
+ 4     R.Tibial Tubercle                  0.414     0.218     0.368
+ 5     R.Femoral Epicondyle               0.411     0.176     0.439
+ 6     R.Greater Trochanter               0.529     0.103     0.787
+ 7     R.ASIS                             0.589     0.155     0.898
+ 8     L.Metatarsal Head V                0.835     0.415     0.036
+ 9     L.Heel                             0.682     0.348     0.044
+10     L.Lateral Malleolus                0.728     0.379     0.072
+11     L.Tibial Tubercle                  0.732     0.346     0.386
+12     L.Femoral Epicondyle               0.700     0.389     0.416
+13     L.Greater Trochanter               0.565     0.463     0.771
+14     L.ASIS                             0.605     0.403     0.902
+15     Sacrum                             0.417     0.301     0.903
+
+
+TIME 0.38 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.346     0.181     0.009
+ 2     R.Heel                             0.232     0.251     0.103
+ 3     R.Lateral Malleolus                0.268     0.215     0.115
+ 4     R.Tibial Tubercle                  0.428     0.218     0.369
+ 5     R.Femoral Epicondyle               0.429     0.175     0.439
+ 6     R.Greater Trochanter               0.556     0.100     0.785
+ 7     R.ASIS                             0.625     0.158     0.895
+ 8     L.Metatarsal Head V                0.920     0.413     0.054
+ 9     L.Heel                             0.767     0.349     0.044
+10     L.Lateral Malleolus                0.811     0.378     0.075
+11     L.Tibial Tubercle                  0.772     0.346     0.386
+12     L.Femoral Epicondyle               0.736     0.394     0.412
+13     L.Greater Trochanter               0.600     0.465     0.764
+14     L.ASIS                             0.642     0.403     0.894
+15     Sacrum                             0.452     0.305     0.899
+
+
+TIME 0.40 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.347     0.183     0.012
+ 2     R.Heel                             0.235     0.245     0.111
+ 3     R.Lateral Malleolus                0.274     0.214     0.120
+ 4     R.Tibial Tubercle                  0.451     0.216     0.370
+ 5     R.Femoral Epicondyle               0.448     0.175     0.437
+ 6     R.Greater Trochanter               0.584     0.103     0.780
+ 7     R.ASIS                             0.657     0.160     0.889
+ 8     L.Metatarsal Head V                0.989     0.408     0.068
+ 9     L.Heel                             0.834     0.347     0.046
+10     L.Lateral Malleolus                0.876     0.377     0.078
+11     L.Tibial Tubercle                  0.812     0.344     0.384
+12     L.Femoral Epicondyle               0.776     0.393     0.409
+13     L.Greater Trochanter               0.636     0.468     0.759
+14     L.ASIS                             0.680     0.405     0.889
+15     Sacrum                             0.486     0.306     0.893
+
+
+TIME 0.42 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.349     0.183     0.011
+ 2     R.Heel                             0.244     0.242     0.122
+ 3     R.Lateral Malleolus                0.280     0.212     0.128
+ 4     R.Tibial Tubercle                  0.475     0.217     0.368
+ 5     R.Femoral Epicondyle               0.475     0.177     0.436
+ 6     R.Greater Trochanter               0.617     0.104     0.773
+ 7     R.ASIS                             0.692     0.166     0.883
+ 8     L.Metatarsal Head V                1.037     0.396     0.064
+ 9     L.Heel                             0.881     0.345     0.045
+10     L.Lateral Malleolus                0.923     0.372     0.077
+11     L.Tibial Tubercle                  0.851     0.341     0.382
+12     L.Femoral Epicondyle               0.817     0.394     0.407
+13     L.Greater Trochanter               0.676     0.469     0.755
+14     L.ASIS                             0.716     0.407     0.886
+15     Sacrum                             0.521     0.309     0.886
+
+
+TIME 0.44 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.350     0.181     0.014
+ 2     R.Heel                             0.253     0.238     0.134
+ 3     R.Lateral Malleolus                0.295     0.213     0.133
+ 4     R.Tibial Tubercle                  0.501     0.217     0.363
+ 5     R.Femoral Epicondyle               0.504     0.178     0.430
+ 6     R.Greater Trochanter               0.651     0.104     0.769
+ 7     R.ASIS                             0.732     0.178     0.877
+ 8     L.Metatarsal Head V                1.068     0.391     0.053
+ 9     L.Heel                             0.910     0.342     0.039
+10     L.Lateral Malleolus                0.952     0.370     0.071
+11     L.Tibial Tubercle                  0.890     0.340     0.380
+12     L.Femoral Epicondyle               0.860     0.391     0.403
+13     L.Greater Trochanter               0.716     0.472     0.753
+14     L.ASIS                             0.754     0.407     0.881
+15     Sacrum                             0.560     0.310     0.880
+
+
+TIME 0.46 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.352     0.180     0.017
+ 2     R.Heel                             0.267     0.238     0.147
+ 3     R.Lateral Malleolus                0.307     0.209     0.144
+ 4     R.Tibial Tubercle                  0.529     0.219     0.358
+ 5     R.Femoral Epicondyle               0.535     0.178     0.424
+ 6     R.Greater Trochanter               0.689     0.107     0.762
+ 7     R.ASIS                             0.773     0.171     0.868
+ 8     L.Metatarsal Head V                1.080     0.386     0.033
+ 9     L.Heel                             0.923     0.347     0.034
+10     L.Lateral Malleolus                0.969     0.369     0.060
+11     L.Tibial Tubercle                  0.926     0.337     0.371
+12     L.Femoral Epicondyle               0.899     0.390     0.402
+13     L.Greater Trochanter               0.758     0.473     0.749
+14     L.ASIS                             0.794     0.410     0.876
+15     Sacrum                             0.598     0.316     0.874
+
+
+TIME 0.48 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.355     0.182     0.022
+ 2     R.Heel                             0.289     0.236     0.161
+ 3     R.Lateral Malleolus                0.327     0.211     0.155
+ 4     R.Tibial Tubercle                  0.562     0.219     0.350
+ 5     R.Femoral Epicondyle               0.574     0.183     0.418
+ 6     R.Greater Trochanter               0.727     0.111     0.754
+ 7     R.ASIS                             0.813     0.171     0.861
+ 8     L.Metatarsal Head V                1.091     0.384     0.015
+ 9     L.Heel                             0.933     0.340     0.038
+10     L.Lateral Malleolus                0.984     0.365     0.060
+11     L.Tibial Tubercle                  0.968     0.335     0.370
+12     L.Femoral Epicondyle               0.937     0.386     0.398
+13     L.Greater Trochanter               0.801     0.475     0.750
+14     L.ASIS                             0.832     0.412     0.873
+15     Sacrum                             0.636     0.317     0.868
+
+
+TIME 0.50 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.360     0.180     0.027
+ 2     R.Heel                             0.320     0.236     0.176
+ 3     R.Lateral Malleolus                0.358     0.208     0.166
+ 4     R.Tibial Tubercle                  0.608     0.222     0.344
+ 5     R.Femoral Epicondyle               0.621     0.182     0.410
+ 6     R.Greater Trochanter               0.770     0.117     0.744
+ 7     R.ASIS                             0.852     0.176     0.856
+ 8     L.Metatarsal Head V                1.092     0.385     0.005
+ 9     L.Heel                             0.936     0.339     0.042
+10     L.Lateral Malleolus                0.990     0.369     0.060
+11     L.Tibial Tubercle                  1.000     0.333     0.372
+12     L.Femoral Epicondyle               0.978     0.384     0.404
+13     L.Greater Trochanter               0.838     0.480     0.752
+14     L.ASIS                             0.871     0.414     0.870
+15     Sacrum                             0.674     0.320     0.865
+
+
+TIME 0.52 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.371     0.180     0.037
+ 2     R.Heel                             0.363     0.237     0.190
+ 3     R.Lateral Malleolus                0.395     0.206     0.174
+ 4     R.Tibial Tubercle                  0.661     0.221     0.331
+ 5     R.Femoral Epicondyle               0.677     0.181     0.398
+ 6     R.Greater Trochanter               0.810     0.118     0.735
+ 7     R.ASIS                             0.887     0.179     0.856
+ 8     L.Metatarsal Head V                1.093     0.385     0.002
+ 9     L.Heel                             0.939     0.341     0.043
+10     L.Lateral Malleolus                0.994     0.367     0.060
+11     L.Tibial Tubercle                  1.028     0.333     0.369
+12     L.Femoral Epicondyle               1.011     0.381     0.402
+13     L.Greater Trochanter               0.878     0.484     0.757
+14     L.ASIS                             0.908     0.418     0.873
+15     Sacrum                             0.710     0.320     0.863
+
+
+TIME 0.54 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.397     0.185     0.057
+ 2     R.Heel                             0.417     0.233     0.210
+ 3     R.Lateral Malleolus                0.442     0.202     0.187
+ 4     R.Tibial Tubercle                  0.715     0.216     0.321
+ 5     R.Femoral Epicondyle               0.739     0.181     0.386
+ 6     R.Greater Trochanter               0.851     0.121     0.732
+ 7     R.ASIS                             0.922     0.183     0.854
+ 8     L.Metatarsal Head V                1.094     0.386     0.000
+ 9     L.Heel                             0.942     0.340     0.044
+10     L.Lateral Malleolus                0.994     0.365     0.059
+11     L.Tibial Tubercle                  1.046     0.333     0.367
+12     L.Femoral Epicondyle               1.031     0.386     0.398
+13     L.Greater Trochanter               0.913     0.488     0.760
+14     L.ASIS                             0.944     0.420     0.875
+15     Sacrum                             0.746     0.322     0.862
+
+
+TIME 0.56 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.442     0.183     0.075
+ 2     R.Heel                             0.473     0.231     0.225
+ 3     R.Lateral Malleolus                0.494     0.198     0.200
+ 4     R.Tibial Tubercle                  0.786     0.214     0.320
+ 5     R.Femoral Epicondyle               0.801     0.182     0.380
+ 6     R.Greater Trochanter               0.889     0.127     0.733
+ 7     R.ASIS                             0.955     0.185     0.858
+ 8     L.Metatarsal Head V                1.093     0.387     0.003
+ 9     L.Heel                             0.942     0.338     0.045
+10     L.Lateral Malleolus                0.997     0.368     0.060
+11     L.Tibial Tubercle                  1.058     0.336     0.360
+12     L.Femoral Epicondyle               1.040     0.388     0.396
+13     L.Greater Trochanter               0.945     0.487     0.767
+14     L.ASIS                             0.976     0.421     0.881
+15     Sacrum                             0.779     0.321     0.867
+
+
+TIME 0.58 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.509     0.182     0.085
+ 2     R.Heel                             0.523     0.237     0.237
+ 3     R.Lateral Malleolus                0.550     0.205     0.215
+ 4     R.Tibial Tubercle                  0.845     0.217     0.320
+ 5     R.Femoral Epicondyle               0.866     0.183     0.378
+ 6     R.Greater Trochanter               0.922     0.130     0.738
+ 7     R.ASIS                             0.989     0.184     0.862
+ 8     L.Metatarsal Head V                1.095     0.387     0.000
+ 9     L.Heel                             0.943     0.341     0.044
+10     L.Lateral Malleolus                0.994     0.365     0.059
+11     L.Tibial Tubercle                  1.064     0.336     0.360
+12     L.Femoral Epicondyle               1.052     0.388     0.394
+13     L.Greater Trochanter               0.973     0.492     0.773
+14     L.ASIS                             1.009     0.423     0.887
+15     Sacrum                             0.812     0.323     0.872
+
+
+TIME 0.60 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.584     0.183     0.091
+ 2     R.Heel                             0.585     0.241     0.240
+ 3     R.Lateral Malleolus                0.616     0.209     0.220
+ 4     R.Tibial Tubercle                  0.907     0.221     0.323
+ 5     R.Femoral Epicondyle               0.930     0.179     0.385
+ 6     R.Greater Trochanter               0.958     0.129     0.743
+ 7     R.ASIS                             1.013     0.176     0.870
+ 8     L.Metatarsal Head V                1.094     0.388     0.002
+ 9     L.Heel                             0.943     0.340     0.046
+10     L.Lateral Malleolus                0.997     0.366     0.060
+11     L.Tibial Tubercle                  1.072     0.339     0.358
+12     L.Femoral Epicondyle               1.059     0.392     0.393
+13     L.Greater Trochanter               1.001     0.492     0.778
+14     L.ASIS                             1.041     0.423     0.895
+15     Sacrum                             0.847     0.327     0.877
+
+
+TIME 0.62 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.664     0.183     0.091
+ 2     R.Heel                             0.650     0.250     0.235
+ 3     R.Lateral Malleolus                0.686     0.217     0.222
+ 4     R.Tibial Tubercle                  0.971     0.226     0.328
+ 5     R.Femoral Epicondyle               0.997     0.180     0.391
+ 6     R.Greater Trochanter               0.991     0.130     0.752
+ 7     R.ASIS                             1.050     0.180     0.878
+ 8     L.Metatarsal Head V                1.095     0.387     0.000
+ 9     L.Heel                             0.942     0.339     0.047
+10     L.Lateral Malleolus                0.997     0.365     0.059
+11     L.Tibial Tubercle                  1.071     0.341     0.360
+12     L.Femoral Epicondyle               1.060     0.393     0.395
+13     L.Greater Trochanter               1.027     0.499     0.783
+14     L.ASIS                             1.070     0.425     0.901
+15     Sacrum                             0.877     0.326     0.887
+
+
+TIME 0.64 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.752     0.184     0.091
+ 2     R.Heel                             0.720     0.259     0.224
+ 3     R.Lateral Malleolus                0.756     0.223     0.215
+ 4     R.Tibial Tubercle                  1.037     0.226     0.335
+ 5     R.Femoral Epicondyle               1.062     0.179     0.402
+ 6     R.Greater Trochanter               1.027     0.130     0.761
+ 7     R.ASIS                             1.082     0.181     0.885
+ 8     L.Metatarsal Head V                1.093     0.387     0.002
+ 9     L.Heel                             0.943     0.342     0.048
+10     L.Lateral Malleolus                0.996     0.370     0.062
+11     L.Tibial Tubercle                  1.077     0.344     0.360
+12     L.Femoral Epicondyle               1.063     0.399     0.393
+13     L.Greater Trochanter               1.033     0.483     0.780
+14     L.ASIS                             1.098     0.425     0.905
+15     Sacrum                             0.910     0.326     0.894
+
+
+TIME 0.66 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.844     0.184     0.087
+ 2     R.Heel                             0.795     0.269     0.208
+ 3     R.Lateral Malleolus                0.829     0.228     0.202
+ 4     R.Tibial Tubercle                  1.103     0.228     0.343
+ 5     R.Femoral Epicondyle               1.122     0.178     0.412
+ 6     R.Greater Trochanter               1.060     0.129     0.767
+ 7     R.ASIS                             1.116     0.185     0.891
+ 8     L.Metatarsal Head V                1.096     0.388     0.000
+ 9     L.Heel                             0.945     0.340     0.052
+10     L.Lateral Malleolus                1.002     0.364     0.061
+11     L.Tibial Tubercle                  1.082     0.351     0.360
+12     L.Femoral Epicondyle               1.068     0.402     0.396
+13     L.Greater Trochanter               1.073     0.494     0.790
+14     L.ASIS                             1.129     0.427     0.907
+15     Sacrum                             0.941     0.327     0.899
+
+
+TIME 0.68 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                0.938     0.177     0.081
+ 2     R.Heel                             0.870     0.272     0.184
+ 3     R.Lateral Malleolus                0.909     0.230     0.188
+ 4     R.Tibial Tubercle                  1.167     0.231     0.352
+ 5     R.Femoral Epicondyle               1.182     0.178     0.419
+ 6     R.Greater Trochanter               1.097     0.131     0.771
+ 7     R.ASIS                             1.148     0.187     0.894
+ 8     L.Metatarsal Head V                1.096     0.386     0.003
+ 9     L.Heel                             0.948     0.338     0.059
+10     L.Lateral Malleolus                1.002     0.361     0.065
+11     L.Tibial Tubercle                  1.087     0.352     0.364
+12     L.Femoral Epicondyle               1.073     0.402     0.399
+13     L.Greater Trochanter               1.109     0.497     0.790
+14     L.ASIS                             1.159     0.430     0.909
+15     Sacrum                             0.973     0.325     0.900
+
+
+TIME 0.70 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.033     0.173     0.073
+ 2     R.Heel                             0.951     0.274     0.160
+ 3     R.Lateral Malleolus                0.989     0.231     0.167
+ 4     R.Tibial Tubercle                  1.229     0.235     0.360
+ 5     R.Femoral Epicondyle               1.241     0.181     0.429
+ 6     R.Greater Trochanter               1.130     0.129     0.771
+ 7     R.ASIS                             1.173     0.197     0.897
+ 8     L.Metatarsal Head V                1.095     0.384     0.001
+ 9     L.Heel                             0.950     0.337     0.066
+10     L.Lateral Malleolus                1.003     0.364     0.072
+11     L.Tibial Tubercle                  1.092     0.355     0.368
+12     L.Femoral Epicondyle               1.080     0.407     0.402
+13     L.Greater Trochanter               1.139     0.495     0.791
+14     L.ASIS                             1.188     0.429     0.907
+15     Sacrum                             1.004     0.324     0.904
+
+
+TIME 0.72 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.132     0.168     0.061
+ 2     R.Heel                             1.036     0.266     0.137
+ 3     R.Lateral Malleolus                1.078     0.229     0.145
+ 4     R.Tibial Tubercle                  1.288     0.240     0.365
+ 5     R.Femoral Epicondyle               1.296     0.181     0.437
+ 6     R.Greater Trochanter               1.168     0.129     0.769
+ 7     R.ASIS                             1.205     0.199     0.895
+ 8     L.Metatarsal Head V                1.096     0.385     0.002
+ 9     L.Heel                             0.954     0.338     0.072
+10     L.Lateral Malleolus                1.006     0.364     0.075
+11     L.Tibial Tubercle                  1.100     0.355     0.371
+12     L.Femoral Epicondyle               1.087     0.409     0.407
+13     L.Greater Trochanter               1.164     0.500     0.793
+14     L.ASIS                             1.218     0.433     0.911
+15     Sacrum                             1.035     0.320     0.904
+
+
+TIME 0.74 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.238     0.164     0.050
+ 2     R.Heel                             1.132     0.270     0.105
+ 3     R.Lateral Malleolus                1.167     0.224     0.126
+ 4     R.Tibial Tubercle                  1.343     0.244     0.373
+ 5     R.Femoral Epicondyle               1.347     0.183     0.444
+ 6     R.Greater Trochanter               1.200     0.126     0.768
+ 7     R.ASIS                             1.238     0.201     0.891
+ 8     L.Metatarsal Head V                1.096     0.383     0.004
+ 9     L.Heel                             0.955     0.337     0.080
+10     L.Lateral Malleolus                1.009     0.360     0.083
+11     L.Tibial Tubercle                  1.103     0.358     0.374
+12     L.Femoral Epicondyle               1.096     0.410     0.409
+13     L.Greater Trochanter               1.187     0.502     0.793
+14     L.ASIS                             1.246     0.435     0.907
+15     Sacrum                             1.066     0.317     0.904
+
+
+TIME 0.76 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.343     0.158     0.045
+ 2     R.Heel                             1.232     0.266     0.080
+ 3     R.Lateral Malleolus                1.262     0.219     0.109
+ 4     R.Tibial Tubercle                  1.396     0.248     0.379
+ 5     R.Femoral Epicondyle               1.392     0.186     0.451
+ 6     R.Greater Trochanter               1.237     0.120     0.767
+ 7     R.ASIS                             1.272     0.204     0.888
+ 8     L.Metatarsal Head V                1.096     0.382     0.001
+ 9     L.Heel                             0.958     0.336     0.088
+10     L.Lateral Malleolus                1.013     0.362     0.086
+11     L.Tibial Tubercle                  1.115     0.359     0.377
+12     L.Femoral Epicondyle               1.108     0.412     0.414
+13     L.Greater Trochanter               1.213     0.501     0.791
+14     L.ASIS                             1.270     0.442     0.907
+15     Sacrum                             1.098     0.312     0.901
+
+
+TIME 0.78 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.452     0.156     0.046
+ 2     R.Heel                             1.334     0.263     0.059
+ 3     R.Lateral Malleolus                1.360     0.216     0.093
+ 4     R.Tibial Tubercle                  1.446     0.252     0.384
+ 5     R.Femoral Epicondyle               1.435     0.187     0.454
+ 6     R.Greater Trochanter               1.270     0.122     0.763
+ 7     R.ASIS                             1.304     0.205     0.885
+ 8     L.Metatarsal Head V                1.096     0.382     0.005
+ 9     L.Heel                             0.961     0.338     0.095
+10     L.Lateral Malleolus                1.016     0.361     0.089
+11     L.Tibial Tubercle                  1.126     0.358     0.378
+12     L.Femoral Epicondyle               1.122     0.413     0.415
+13     L.Greater Trochanter               1.236     0.505     0.790
+14     L.ASIS                             1.292     0.455     0.904
+15     Sacrum                             1.129     0.309     0.899
+
+
+TIME 0.80 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.555     0.156     0.054
+ 2     R.Heel                             1.436     0.262     0.046
+ 3     R.Lateral Malleolus                1.456     0.217     0.089
+ 4     R.Tibial Tubercle                  1.487     0.253     0.387
+ 5     R.Femoral Epicondyle               1.473     0.188     0.452
+ 6     R.Greater Trochanter               1.305     0.121     0.759
+ 7     R.ASIS                             1.338     0.206     0.880
+ 8     L.Metatarsal Head V                1.093     0.383     0.007
+ 9     L.Heel                             0.966     0.337     0.103
+10     L.Lateral Malleolus                1.020     0.362     0.097
+11     L.Tibial Tubercle                  1.142     0.360     0.379
+12     L.Femoral Epicondyle               1.138     0.413     0.416
+13     L.Greater Trochanter               1.261     0.504     0.786
+14     L.ASIS                             1.321     0.455     0.900
+15     Sacrum                             1.161     0.306     0.894
+
+
+TIME 0.82 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.652     0.158     0.070
+ 2     R.Heel                             1.526     0.263     0.041
+ 3     R.Lateral Malleolus                1.545     0.217     0.087
+ 4     R.Tibial Tubercle                  1.528     0.259     0.386
+ 5     R.Femoral Epicondyle               1.509     0.189     0.448
+ 6     R.Greater Trochanter               1.342     0.120     0.757
+ 7     R.ASIS                             1.373     0.208     0.876
+ 8     L.Metatarsal Head V                1.095     0.382     0.004
+ 9     L.Heel                             0.972     0.337     0.112
+10     L.Lateral Malleolus                1.026     0.365     0.104
+11     L.Tibial Tubercle                  1.159     0.361     0.378
+12     L.Femoral Epicondyle               1.155     0.413     0.417
+13     L.Greater Trochanter               1.288     0.505     0.784
+14     L.ASIS                             1.383     0.410     0.890
+15     Sacrum                             1.197     0.301     0.888
+
+
+TIME 0.84 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.731     0.165     0.083
+ 2     R.Heel                             1.603     0.265     0.044
+ 3     R.Lateral Malleolus                1.620     0.216     0.089
+ 4     R.Tibial Tubercle                  1.564     0.262     0.384
+ 5     R.Femoral Epicondyle               1.540     0.189     0.443
+ 6     R.Greater Trochanter               1.384     0.117     0.751
+ 7     R.ASIS                             1.410     0.210     0.871
+ 8     L.Metatarsal Head V                1.097     0.381     0.007
+ 9     L.Heel                             0.979     0.336     0.122
+10     L.Lateral Malleolus                1.031     0.364     0.109
+11     L.Tibial Tubercle                  1.180     0.361     0.378
+12     L.Femoral Epicondyle               1.179     0.411     0.416
+13     L.Greater Trochanter               1.316     0.503     0.780
+14     L.ASIS                             1.420     0.403     0.886
+15     Sacrum                             1.230     0.299     0.886
+
+
+TIME 0.86 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.789     0.171     0.090
+ 2     R.Heel                             1.659     0.264     0.044
+ 3     R.Lateral Malleolus                1.674     0.220     0.093
+ 4     R.Tibial Tubercle                  1.601     0.271     0.385
+ 5     R.Femoral Epicondyle               1.578     0.193     0.440
+ 6     R.Greater Trochanter               1.427     0.117     0.749
+ 7     R.ASIS                             1.450     0.214     0.870
+ 8     L.Metatarsal Head V                1.097     0.381     0.011
+ 9     L.Heel                             0.990     0.337     0.133
+10     L.Lateral Malleolus                1.041     0.362     0.117
+11     L.Tibial Tubercle                  1.203     0.361     0.374
+12     L.Femoral Epicondyle               1.203     0.410     0.415
+13     L.Greater Trochanter               1.345     0.503     0.777
+14     L.ASIS                             1.454     0.403     0.880
+15     Sacrum                             1.269     0.296     0.881
+
+
+TIME 0.88 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.828     0.179     0.091
+ 2     R.Heel                             1.698     0.267     0.040
+ 3     R.Lateral Malleolus                1.711     0.223     0.094
+ 4     R.Tibial Tubercle                  1.638     0.280     0.383
+ 5     R.Femoral Epicondyle               1.619     0.197     0.437
+ 6     R.Greater Trochanter               1.472     0.120     0.749
+ 7     R.ASIS                             1.486     0.215     0.868
+ 8     L.Metatarsal Head V                1.097     0.381     0.016
+ 9     L.Heel                             1.002     0.337     0.145
+10     L.Lateral Malleolus                1.052     0.363     0.124
+11     L.Tibial Tubercle                  1.231     0.362     0.372
+12     L.Femoral Epicondyle               1.232     0.410     0.414
+13     L.Greater Trochanter               1.378     0.502     0.770
+14     L.ASIS                             1.485     0.410     0.876
+15     Sacrum                             1.308     0.292     0.874
+
+
+TIME 0.90 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.849     0.191     0.079
+ 2     R.Heel                             1.713     0.273     0.036
+ 3     R.Lateral Malleolus                1.730     0.227     0.085
+ 4     R.Tibial Tubercle                  1.671     0.287     0.376
+ 5     R.Femoral Epicondyle               1.661     0.200     0.435
+ 6     R.Greater Trochanter               1.517     0.123     0.747
+ 7     R.ASIS                             1.525     0.218     0.864
+ 8     L.Metatarsal Head V                1.099     0.383     0.018
+ 9     L.Heel                             1.017     0.339     0.158
+10     L.Lateral Malleolus                1.066     0.366     0.133
+11     L.Tibial Tubercle                  1.263     0.361     0.368
+12     L.Femoral Epicondyle               1.266     0.409     0.407
+13     L.Greater Trochanter               1.412     0.501     0.763
+14     L.ASIS                             1.495     0.448     0.873
+15     Sacrum                             1.349     0.290     0.870
+
+
+TIME 0.92 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.858     0.199     0.055
+ 2     R.Heel                             1.724     0.279     0.035
+ 3     R.Lateral Malleolus                1.744     0.231     0.083
+ 4     R.Tibial Tubercle                  1.705     0.295     0.368
+ 5     R.Femoral Epicondyle               1.701     0.201     0.433
+ 6     R.Greater Trochanter               1.562     0.117     0.746
+ 7     R.ASIS                             1.565     0.218     0.860
+ 8     L.Metatarsal Head V                1.102     0.384     0.022
+ 9     L.Heel                             1.039     0.343     0.172
+10     L.Lateral Malleolus                1.087     0.372     0.144
+11     L.Tibial Tubercle                  1.297     0.362     0.360
+12     L.Femoral Epicondyle               1.305     0.411     0.398
+13     L.Greater Trochanter               1.449     0.500     0.756
+14     L.ASIS                             1.533     0.448     0.870
+15     Sacrum                             1.389     0.286     0.866
+
+
+TIME 0.94 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.865     0.204     0.048
+ 2     R.Heel                             1.732     0.277     0.039
+ 3     R.Lateral Malleolus                1.757     0.234     0.086
+ 4     R.Tibial Tubercle                  1.743     0.297     0.375
+ 5     R.Femoral Epicondyle               1.739     0.203     0.439
+ 6     R.Greater Trochanter               1.604     0.115     0.749
+ 7     R.ASIS                             1.604     0.223     0.859
+ 8     L.Metatarsal Head V                1.108     0.383     0.024
+ 9     L.Heel                             1.073     0.348     0.186
+10     L.Lateral Malleolus                1.112     0.375     0.152
+11     L.Tibial Tubercle                  1.343     0.366     0.351
+12     L.Femoral Epicondyle               1.348     0.411     0.389
+13     L.Greater Trochanter               1.488     0.495     0.747
+14     L.ASIS                             1.571     0.447     0.864
+15     Sacrum                             1.428     0.284     0.860
+
+
+TIME 0.96 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.869     0.201     0.038
+ 2     R.Heel                             1.737     0.274     0.042
+ 3     R.Lateral Malleolus                1.764     0.233     0.086
+ 4     R.Tibial Tubercle                  1.773     0.308     0.379
+ 5     R.Femoral Epicondyle               1.786     0.206     0.445
+ 6     R.Greater Trochanter               1.645     0.108     0.756
+ 7     R.ASIS                             1.639     0.221     0.859
+ 8     L.Metatarsal Head V                1.117     0.384     0.029
+ 9     L.Heel                             1.117     0.356     0.197
+10     L.Lateral Malleolus                1.152     0.388     0.156
+11     L.Tibial Tubercle                  1.392     0.368     0.338
+12     L.Femoral Epicondyle               1.403     0.414     0.378
+13     L.Greater Trochanter               1.529     0.492     0.739
+14     L.ASIS                             1.606     0.446     0.861
+15     Sacrum                             1.465     0.282     0.859
+
+
+TIME 0.98 SECONDS
+Number  Name                               X (m)     Y (m)     Z (m)
+ 1     R.Metatarsal Head V                1.870     0.201     0.036
+ 2     R.Heel                             1.739     0.272     0.043
+ 3     R.Lateral Malleolus                1.770     0.233     0.087
+ 4     R.Tibial Tubercle                  1.799     0.309     0.373
+ 5     R.Femoral Epicondyle               1.813     0.205     0.442
+ 6     R.Greater Trochanter               1.681     0.104     0.759
+ 7     R.ASIS                             1.674     0.221     0.862
+ 8     L.Metatarsal Head V                1.142     0.389     0.047
+ 9     L.Heel                             1.172     0.361     0.209
+10     L.Lateral Malleolus                1.192     0.395     0.164
+11     L.Tibial Tubercle                  1.449     0.374     0.326
+12     L.Femoral Epicondyle               1.461     0.418     0.367
+13     L.Greater Trochanter               1.566     0.488     0.731
+14     L.ASIS                             1.656     0.453     0.856
+15     Sacrum                             1.500     0.279     0.859
+
+END OF FILE
+

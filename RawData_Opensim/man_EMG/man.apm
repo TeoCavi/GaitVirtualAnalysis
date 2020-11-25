@@ -1,0 +1,24 @@
+Anthropometric data for calculating body segment parameters.
+Normal Male
+Number  Anthropometric Measurement                           Value  Units
+  1     Total body mass                                      64.90   kg
+  2     ASIS breadth                                         0.240    m
+  3     R.Thigh length                                       0.460    m
+  4     L.Thigh length                                       0.465    m
+  5     R.Mid-thigh circumference                            0.450    m
+  6     L.Mid-thigh circumference                            0.440    m
+  7     R.Calf length                                        0.430    m
+  8     L.Calf length                                        0.430    m
+  9     R.Calf circumference                                 0.365    m
+ 10     L.Calf circumference                                 0.365    m
+ 11     R.Knee diameter                                      0.108    m
+ 12     L.Knee diameter                                      0.112    m
+ 13     R.Foot length                                        0.260    m
+ 14     L.Foot length                                        0.260    m
+ 15     R.Malleolus height                                   0.060    m
+ 16     L.Malleolus height                                   0.060    m
+ 17     R.Malleolus diameter                                 0.074    m
+ 18     L.Malleolus diameter                                 0.073    m
+ 19     R.Foot breadth                                       0.098    m
+ 20     L.Foot breadth                                       0.096    m
+END OF FILE

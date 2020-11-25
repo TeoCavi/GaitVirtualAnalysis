@@ -1,0 +1,1023 @@
+Electromyographic activity for muscles of the right side ( linear envelope )
+Normal Male
+
+TIME 0.00 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       49.3
+ Gluteus Maximus      27.7
+ Gluteus Medius       30.0
+ Hamstrings          169.3
+ Rectus Femoris       30.5
+ Adductor Longus      48.1
+ Tibialis Anterior   279.5
+ Triceps Surae        55.4
+
+
+TIME 0.02 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       67.1
+ Gluteus Maximus      33.4
+ Gluteus Medius       41.2
+ Hamstrings          159.2
+ Rectus Femoris       36.3
+ Adductor Longus      49.8
+ Tibialis Anterior   311.6
+ Triceps Surae        60.5
+
+
+TIME 0.04 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       85.0
+ Gluteus Maximus      39.2
+ Gluteus Medius       52.4
+ Hamstrings          148.4
+ Rectus Femoris       42.2
+ Adductor Longus      51.5
+ Tibialis Anterior   340.3
+ Triceps Surae        67.2
+
+
+TIME 0.06 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       99.1
+ Gluteus Maximus      43.9
+ Gluteus Medius       63.3
+ Hamstrings          138.3
+ Rectus Femoris       48.6
+ Adductor Longus      52.8
+ Tibialis Anterior   360.4
+ Triceps Surae        74.6
+
+
+TIME 0.08 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae      105.5
+ Gluteus Maximus      46.5
+ Gluteus Medius       73.7
+ Hamstrings          130.3
+ Rectus Femoris       56.0
+ Adductor Longus      53.1
+ Tibialis Anterior   365.7
+ Triceps Surae        81.7
+
+
+TIME 0.10 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae      100.6
+ Gluteus Maximus      46.0
+ Gluteus Medius       83.3
+ Hamstrings          124.5
+ Rectus Femoris       63.4
+ Adductor Longus      52.0
+ Tibialis Anterior   338.7
+ Triceps Surae        89.4
+
+
+TIME 0.12 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       95.4
+ Gluteus Maximus      45.4
+ Gluteus Medius       92.8
+ Hamstrings          118.4
+ Rectus Femoris       69.5
+ Adductor Longus      50.9
+ Tibialis Anterior   307.2
+ Triceps Surae        95.1
+
+
+TIME 0.14 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       88.2
+ Gluteus Maximus      43.7
+ Gluteus Medius       98.6
+ Hamstrings          111.6
+ Rectus Femoris       73.0
+ Adductor Longus      49.6
+ Tibialis Anterior   270.7
+ Triceps Surae        97.2
+
+
+TIME 0.16 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       76.4
+ Gluteus Maximus      39.4
+ Gluteus Medius       95.5
+ Hamstrings          103.8
+ Rectus Femoris       72.3
+ Adductor Longus      47.7
+ Tibialis Anterior   227.2
+ Triceps Surae        93.8
+
+
+TIME 0.18 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       64.5
+ Gluteus Maximus      35.1
+ Gluteus Medius       92.5
+ Hamstrings           93.6
+ Rectus Femoris       70.7
+ Adductor Longus      45.7
+ Tibialis Anterior   187.1
+ Triceps Surae        87.9
+
+
+TIME 0.20 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       54.3
+ Gluteus Maximus      31.2
+ Gluteus Medius       88.2
+ Hamstrings           83.4
+ Rectus Femoris       67.8
+ Adductor Longus      43.5
+ Tibialis Anterior   153.3
+ Triceps Surae        80.7
+
+
+TIME 0.22 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       45.9
+ Gluteus Maximus      27.7
+ Gluteus Medius       82.5
+ Hamstrings           73.7
+ Rectus Femoris       63.7
+ Adductor Longus      40.8
+ Tibialis Anterior   126.1
+ Triceps Surae        72.6
+
+
+TIME 0.24 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       39.5
+ Gluteus Maximus      24.7
+ Gluteus Medius       75.2
+ Hamstrings           65.3
+ Rectus Femoris       58.2
+ Adductor Longus      37.8
+ Tibialis Anterior   105.7
+ Triceps Surae        64.2
+
+
+TIME 0.26 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       33.1
+ Gluteus Maximus      21.7
+ Gluteus Medius       68.1
+ Hamstrings           58.8
+ Rectus Femoris       52.6
+ Adductor Longus      34.8
+ Tibialis Anterior    87.3
+ Triceps Surae        56.9
+
+
+TIME 0.28 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       29.0
+ Gluteus Maximus      20.0
+ Gluteus Medius       62.6
+ Hamstrings           52.3
+ Rectus Femoris       46.4
+ Adductor Longus      33.2
+ Tibialis Anterior    73.8
+ Triceps Surae        50.6
+
+
+TIME 0.30 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       26.4
+ Gluteus Maximus      19.1
+ Gluteus Medius       58.3
+ Hamstrings           46.4
+ Rectus Femoris       39.9
+ Adductor Longus      32.5
+ Tibialis Anterior    63.6
+ Triceps Surae        45.4
+
+
+TIME 0.32 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       23.9
+ Gluteus Maximus      18.2
+ Gluteus Medius       53.9
+ Hamstrings           42.0
+ Rectus Femoris       33.9
+ Adductor Longus      31.9
+ Tibialis Anterior    53.6
+ Triceps Surae        41.3
+
+
+TIME 0.34 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       21.9
+ Gluteus Maximus      17.0
+ Gluteus Medius       50.5
+ Hamstrings           39.2
+ Rectus Femoris       29.1
+ Adductor Longus      30.5
+ Tibialis Anterior    46.6
+ Triceps Surae        39.8
+
+
+TIME 0.36 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       20.3
+ Gluteus Maximus      15.6
+ Gluteus Medius       47.7
+ Hamstrings           36.8
+ Rectus Femoris       24.9
+ Adductor Longus      28.6
+ Tibialis Anterior    41.6
+ Triceps Surae        39.9
+
+
+TIME 0.38 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       19.0
+ Gluteus Maximus      14.0
+ Gluteus Medius       45.3
+ Hamstrings           34.8
+ Rectus Femoris       21.3
+ Adductor Longus      26.2
+ Tibialis Anterior    38.0
+ Triceps Surae        41.8
+
+
+TIME 0.40 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       17.6
+ Gluteus Maximus      12.5
+ Gluteus Medius       42.9
+ Hamstrings           32.5
+ Rectus Femoris       17.8
+ Adductor Longus      23.9
+ Tibialis Anterior    34.7
+ Triceps Surae        45.3
+
+
+TIME 0.42 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       16.4
+ Gluteus Maximus      11.4
+ Gluteus Medius       41.4
+ Hamstrings           31.6
+ Rectus Femoris       15.7
+ Adductor Longus      21.9
+ Tibialis Anterior    32.7
+ Triceps Surae        53.6
+
+
+TIME 0.44 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       15.1
+ Gluteus Maximus      10.2
+ Gluteus Medius       40.0
+ Hamstrings           30.9
+ Rectus Femoris       13.8
+ Adductor Longus      19.8
+ Tibialis Anterior    31.3
+ Triceps Surae        64.6
+
+
+TIME 0.46 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       13.9
+ Gluteus Maximus       9.1
+ Gluteus Medius       38.3
+ Hamstrings           30.4
+ Rectus Femoris       12.3
+ Adductor Longus      17.8
+ Tibialis Anterior    30.8
+ Triceps Surae        78.7
+
+
+TIME 0.48 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       12.8
+ Gluteus Maximus       8.2
+ Gluteus Medius       36.3
+ Hamstrings           30.1
+ Rectus Femoris       11.2
+ Adductor Longus      16.0
+ Tibialis Anterior    32.0
+ Triceps Surae        96.8
+
+
+TIME 0.50 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       12.0
+ Gluteus Maximus       7.6
+ Gluteus Medius       33.6
+ Hamstrings           29.4
+ Rectus Femoris       10.9
+ Adductor Longus      14.4
+ Tibialis Anterior    34.3
+ Triceps Surae       119.6
+
+
+TIME 0.52 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       11.3
+ Gluteus Maximus       7.0
+ Gluteus Medius       30.8
+ Hamstrings           28.1
+ Rectus Femoris       10.7
+ Adductor Longus      12.9
+ Tibialis Anterior    37.3
+ Triceps Surae       144.0
+
+
+TIME 0.54 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       10.6
+ Gluteus Maximus       6.5
+ Gluteus Medius       27.9
+ Hamstrings           26.3
+ Rectus Femoris       10.7
+ Adductor Longus      11.7
+ Tibialis Anterior    41.4
+ Triceps Surae       168.7
+
+
+TIME 0.56 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       10.3
+ Gluteus Maximus       6.4
+ Gluteus Medius       24.6
+ Hamstrings           24.1
+ Rectus Femoris       11.8
+ Adductor Longus      12.0
+ Tibialis Anterior    47.5
+ Triceps Surae       191.8
+
+
+TIME 0.58 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       10.0
+ Gluteus Maximus       6.4
+ Gluteus Medius       21.2
+ Hamstrings           21.6
+ Rectus Femoris       12.9
+ Adductor Longus      12.3
+ Tibialis Anterior    53.3
+ Triceps Surae       207.8
+
+
+TIME 0.60 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       11.1
+ Gluteus Maximus       6.4
+ Gluteus Medius       18.1
+ Hamstrings           18.9
+ Rectus Femoris       14.1
+ Adductor Longus      13.4
+ Tibialis Anterior    58.1
+ Triceps Surae       218.2
+
+
+TIME 0.62 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       14.0
+ Gluteus Maximus       6.5
+ Gluteus Medius       15.4
+ Hamstrings           16.1
+ Rectus Femoris       15.6
+ Adductor Longus      15.5
+ Tibialis Anterior    61.5
+ Triceps Surae       222.3
+
+
+TIME 0.64 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       19.1
+ Gluteus Maximus       6.8
+ Gluteus Medius       13.1
+ Hamstrings           13.3
+ Rectus Femoris       17.5
+ Adductor Longus      18.9
+ Tibialis Anterior    62.7
+ Triceps Surae       216.6
+
+
+TIME 0.66 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       24.2
+ Gluteus Maximus       6.9
+ Gluteus Medius       10.7
+ Hamstrings           11.1
+ Rectus Femoris       19.3
+ Adductor Longus      22.2
+ Tibialis Anterior    63.4
+ Triceps Surae       204.9
+
+
+TIME 0.68 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       34.8
+ Gluteus Maximus       6.9
+ Gluteus Medius        9.0
+ Hamstrings            9.5
+ Rectus Femoris       20.3
+ Adductor Longus      26.6
+ Tibialis Anterior    61.6
+ Triceps Surae       187.2
+
+
+TIME 0.70 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       50.9
+ Gluteus Maximus       6.7
+ Gluteus Medius        8.0
+ Hamstrings            8.5
+ Rectus Femoris       20.6
+ Adductor Longus      32.1
+ Tibialis Anterior    57.6
+ Triceps Surae       164.3
+
+
+TIME 0.72 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       67.0
+ Gluteus Maximus       6.4
+ Gluteus Medius        7.1
+ Hamstrings            8.3
+ Rectus Femoris       20.9
+ Adductor Longus      37.5
+ Tibialis Anterior    54.5
+ Triceps Surae       139.6
+
+
+TIME 0.74 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       76.1
+ Gluteus Maximus       6.4
+ Gluteus Medius        6.5
+ Hamstrings           10.4
+ Rectus Femoris       20.8
+ Adductor Longus      42.5
+ Tibialis Anterior    53.0
+ Triceps Surae       119.1
+
+
+TIME 0.76 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       79.7
+ Gluteus Maximus       6.6
+ Gluteus Medius        6.2
+ Hamstrings           13.7
+ Rectus Femoris       20.4
+ Adductor Longus      47.0
+ Tibialis Anterior    53.3
+ Triceps Surae       102.0
+
+
+TIME 0.78 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       78.8
+ Gluteus Maximus       6.9
+ Gluteus Medius        6.1
+ Hamstrings           18.0
+ Rectus Femoris       20.0
+ Adductor Longus      51.3
+ Tibialis Anterior    55.8
+ Triceps Surae        88.0
+
+
+TIME 0.80 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       77.8
+ Gluteus Maximus       7.2
+ Gluteus Medius        6.0
+ Hamstrings           23.3
+ Rectus Femoris       20.3
+ Adductor Longus      55.5
+ Tibialis Anterior    61.9
+ Triceps Surae        77.7
+
+
+TIME 0.82 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       70.6
+ Gluteus Maximus       8.3
+ Gluteus Medius        6.4
+ Hamstrings           29.8
+ Rectus Femoris       20.9
+ Adductor Longus      56.5
+ Tibialis Anterior    76.5
+ Triceps Surae        74.5
+
+
+TIME 0.84 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       61.7
+ Gluteus Maximus       9.6
+ Gluteus Medius        6.8
+ Hamstrings           36.3
+ Rectus Femoris       21.4
+ Adductor Longus      56.8
+ Tibialis Anterior    91.9
+ Triceps Surae        73.7
+
+
+TIME 0.86 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       53.1
+ Gluteus Maximus      10.9
+ Gluteus Medius        7.1
+ Hamstrings           42.4
+ Rectus Femoris       21.6
+ Adductor Longus      56.9
+ Tibialis Anterior   105.7
+ Triceps Surae        73.2
+
+
+TIME 0.88 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       46.1
+ Gluteus Maximus      11.9
+ Gluteus Medius        7.4
+ Hamstrings           47.8
+ Rectus Femoris       22.0
+ Adductor Longus      55.9
+ Tibialis Anterior   118.3
+ Triceps Surae        70.7
+
+
+TIME 0.90 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       40.7
+ Gluteus Maximus      12.6
+ Gluteus Medius        7.6
+ Hamstrings           50.0
+ Rectus Femoris       22.2
+ Adductor Longus      53.9
+ Tibialis Anterior   131.0
+ Triceps Surae        66.1
+
+
+TIME 0.92 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       35.7
+ Gluteus Maximus      13.2
+ Gluteus Medius        7.7
+ Hamstrings           49.8
+ Rectus Femoris       21.9
+ Adductor Longus      51.6
+ Tibialis Anterior   143.7
+ Triceps Surae        61.3
+
+
+TIME 0.94 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       30.8
+ Gluteus Maximus      13.8
+ Gluteus Medius        7.7
+ Hamstrings           47.3
+ Rectus Femoris       20.9
+ Adductor Longus      49.3
+ Tibialis Anterior   156.2
+ Triceps Surae        56.6
+
+
+TIME 0.96 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       27.7
+ Gluteus Maximus      14.3
+ Gluteus Medius        7.2
+ Hamstrings           43.0
+ Rectus Femoris       18.5
+ Adductor Longus      46.0
+ Tibialis Anterior   167.5
+ Triceps Surae        50.8
+
+
+TIME 0.98 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       24.6
+ Gluteus Maximus      14.7
+ Gluteus Medius        6.8
+ Hamstrings           38.5
+ Rectus Femoris       16.0
+ Adductor Longus      42.6
+ Tibialis Anterior   178.3
+ Triceps Surae        44.5
+
+
+TIME 1.00 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       21.6
+ Gluteus Maximus      15.0
+ Gluteus Medius        6.3
+ Hamstrings           34.1
+ Rectus Femoris       13.5
+ Adductor Longus      39.2
+ Tibialis Anterior   186.5
+ Triceps Surae        38.2
+
+
+TIME 1.02 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       18.9
+ Gluteus Maximus      15.1
+ Gluteus Medius        5.8
+ Hamstrings           30.3
+ Rectus Femoris       11.2
+ Adductor Longus      35.6
+ Tibialis Anterior   190.9
+ Triceps Surae        32.5
+
+
+TIME 1.04 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       16.6
+ Gluteus Maximus      14.8
+ Gluteus Medius        5.4
+ Hamstrings           27.2
+ Rectus Femoris        9.1
+ Adductor Longus      31.8
+ Tibialis Anterior   189.4
+ Triceps Surae        28.2
+
+
+TIME 1.06 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       14.2
+ Gluteus Maximus      14.4
+ Gluteus Medius        5.0
+ Hamstrings           25.1
+ Rectus Femoris        7.2
+ Adductor Longus      28.0
+ Tibialis Anterior   186.3
+ Triceps Surae        24.8
+
+
+TIME 1.08 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       12.4
+ Gluteus Maximus      13.7
+ Gluteus Medius        4.8
+ Hamstrings           25.3
+ Rectus Femoris        5.7
+ Adductor Longus      24.7
+ Tibialis Anterior   179.7
+ Triceps Surae        22.3
+
+
+TIME 1.10 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       11.3
+ Gluteus Maximus      12.4
+ Gluteus Medius        5.0
+ Hamstrings           28.5
+ Rectus Femoris        4.6
+ Adductor Longus      22.3
+ Tibialis Anterior   168.4
+ Triceps Surae        20.6
+
+
+TIME 1.12 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       10.2
+ Gluteus Maximus      11.2
+ Gluteus Medius        5.2
+ Hamstrings           34.5
+ Rectus Femoris        3.8
+ Adductor Longus      19.9
+ Tibialis Anterior   157.9
+ Triceps Surae        19.5
+
+
+TIME 1.14 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae        9.6
+ Gluteus Maximus      10.0
+ Gluteus Medius        6.1
+ Hamstrings           47.9
+ Rectus Femoris        3.5
+ Adductor Longus      18.2
+ Tibialis Anterior   149.9
+ Triceps Surae        19.6
+
+
+TIME 1.16 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae        9.4
+ Gluteus Maximus       8.8
+ Gluteus Medius        7.5
+ Hamstrings           67.9
+ Rectus Femoris        3.9
+ Adductor Longus      17.2
+ Tibialis Anterior   143.9
+ Triceps Surae        20.9
+
+
+TIME 1.18 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae        9.6
+ Gluteus Maximus       7.7
+ Gluteus Medius        9.4
+ Hamstrings           94.3
+ Rectus Femoris        4.9
+ Adductor Longus      16.8
+ Tibialis Anterior   139.5
+ Triceps Surae        23.1
+
+
+TIME 1.20 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae        9.9
+ Gluteus Maximus       6.5
+ Gluteus Medius       11.3
+ Hamstrings          124.7
+ Rectus Femoris        6.3
+ Adductor Longus      16.4
+ Tibialis Anterior   136.0
+ Triceps Surae        26.5
+
+
+TIME 1.22 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       10.7
+ Gluteus Maximus       7.1
+ Gluteus Medius       13.4
+ Hamstrings          147.1
+ Rectus Femoris        8.8
+ Adductor Longus      17.7
+ Tibialis Anterior   141.3
+ Triceps Surae        29.4
+
+
+TIME 1.24 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       11.8
+ Gluteus Maximus       8.4
+ Gluteus Medius       15.5
+ Hamstrings          164.3
+ Rectus Femoris       11.9
+ Adductor Longus      19.8
+ Tibialis Anterior   151.7
+ Triceps Surae        32.6
+
+
+TIME 1.26 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       12.9
+ Gluteus Maximus       9.7
+ Gluteus Medius       17.6
+ Hamstrings          178.1
+ Rectus Femoris       15.2
+ Adductor Longus      21.9
+ Tibialis Anterior   164.5
+ Triceps Surae        36.7
+
+
+TIME 1.28 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       18.8
+ Gluteus Maximus      13.0
+ Gluteus Medius       20.3
+ Hamstrings          182.3
+ Rectus Femoris       18.8
+ Adductor Longus      25.9
+ Tibialis Anterior   185.3
+ Triceps Surae        42.6
+
+
+TIME 1.30 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       28.0
+ Gluteus Maximus      17.8
+ Gluteus Medius       23.4
+ Hamstrings          179.8
+ Rectus Femoris       22.7
+ Adductor Longus      31.3
+ Tibialis Anterior   211.2
+ Triceps Surae        48.2
+
+
+TIME 1.32 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       38.6
+ Gluteus Maximus      23.0
+ Gluteus Medius       26.7
+ Hamstrings          174.4
+ Rectus Femoris       26.6
+ Adductor Longus      38.5
+ Tibialis Anterior   242.5
+ Triceps Surae        52.6
+
+
+TIME 1.34 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       49.3
+ Gluteus Maximus      27.7
+ Gluteus Medius       30.0
+ Hamstrings          169.3
+ Rectus Femoris       30.5
+ Adductor Longus      48.1
+ Tibialis Anterior   279.5
+ Triceps Surae        55.4
+
+
+TIME 1.36 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       67.1
+ Gluteus Maximus      33.4
+ Gluteus Medius       41.2
+ Hamstrings          159.2
+ Rectus Femoris       36.3
+ Adductor Longus      49.8
+ Tibialis Anterior   311.6
+ Triceps Surae        60.5
+
+
+TIME 1.38 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       85.0
+ Gluteus Maximus      39.2
+ Gluteus Medius       52.4
+ Hamstrings          148.4
+ Rectus Femoris       42.2
+ Adductor Longus      51.5
+ Tibialis Anterior   340.3
+ Triceps Surae        67.2
+
+
+TIME 1.40 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       99.1
+ Gluteus Maximus      43.9
+ Gluteus Medius       63.3
+ Hamstrings          138.3
+ Rectus Femoris       48.6
+ Adductor Longus      52.8
+ Tibialis Anterior   360.4
+ Triceps Surae        74.6
+
+
+TIME 1.42 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae      105.5
+ Gluteus Maximus      46.5
+ Gluteus Medius       73.7
+ Hamstrings          130.3
+ Rectus Femoris       56.0
+ Adductor Longus      53.1
+ Tibialis Anterior   365.7
+ Triceps Surae        81.7
+
+
+TIME 1.44 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae      100.6
+ Gluteus Maximus      46.0
+ Gluteus Medius       83.3
+ Hamstrings          124.5
+ Rectus Femoris       63.4
+ Adductor Longus      52.0
+ Tibialis Anterior   338.7
+ Triceps Surae        89.4
+
+
+TIME 1.46 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       95.4
+ Gluteus Maximus      45.4
+ Gluteus Medius       92.8
+ Hamstrings          118.4
+ Rectus Femoris       69.5
+ Adductor Longus      50.9
+ Tibialis Anterior   307.2
+ Triceps Surae        95.1
+
+
+TIME 1.48 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       88.2
+ Gluteus Maximus      43.7
+ Gluteus Medius       98.6
+ Hamstrings          111.6
+ Rectus Femoris       73.0
+ Adductor Longus      49.6
+ Tibialis Anterior   270.7
+ Triceps Surae        97.2
+
+
+TIME 1.50 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       76.4
+ Gluteus Maximus      39.4
+ Gluteus Medius       95.5
+ Hamstrings          103.8
+ Rectus Femoris       72.3
+ Adductor Longus      47.7
+ Tibialis Anterior   227.2
+ Triceps Surae        93.8
+
+
+TIME 1.52 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       64.5
+ Gluteus Maximus      35.1
+ Gluteus Medius       92.5
+ Hamstrings           93.6
+ Rectus Femoris       70.7
+ Adductor Longus      45.7
+ Tibialis Anterior   187.1
+ Triceps Surae        87.9
+
+
+TIME 1.54 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       54.3
+ Gluteus Maximus      31.2
+ Gluteus Medius       88.2
+ Hamstrings           83.4
+ Rectus Femoris       67.8
+ Adductor Longus      43.5
+ Tibialis Anterior   153.3
+ Triceps Surae        80.7
+
+
+TIME 1.56 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       45.9
+ Gluteus Maximus      27.7
+ Gluteus Medius       82.5
+ Hamstrings           73.7
+ Rectus Femoris       63.7
+ Adductor Longus      40.8
+ Tibialis Anterior   126.1
+ Triceps Surae        72.6
+
+
+TIME 1.58 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       39.5
+ Gluteus Maximus      24.7
+ Gluteus Medius       75.2
+ Hamstrings           65.3
+ Rectus Femoris       58.2
+ Adductor Longus      37.8
+ Tibialis Anterior   105.7
+ Triceps Surae        64.2
+
+
+TIME 1.60 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       33.1
+ Gluteus Maximus      21.7
+ Gluteus Medius       68.1
+ Hamstrings           58.8
+ Rectus Femoris       52.6
+ Adductor Longus      34.8
+ Tibialis Anterior    87.3
+ Triceps Surae        56.9
+
+
+TIME 1.62 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       29.0
+ Gluteus Maximus      20.0
+ Gluteus Medius       62.6
+ Hamstrings           52.3
+ Rectus Femoris       46.4
+ Adductor Longus      33.2
+ Tibialis Anterior    73.8
+ Triceps Surae        50.6
+
+
+TIME 1.64 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       26.4
+ Gluteus Maximus      19.1
+ Gluteus Medius       58.3
+ Hamstrings           46.4
+ Rectus Femoris       39.9
+ Adductor Longus      32.5
+ Tibialis Anterior    63.6
+ Triceps Surae        45.4
+
+
+TIME 1.66 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       23.9
+ Gluteus Maximus      18.2
+ Gluteus Medius       53.9
+ Hamstrings           42.0
+ Rectus Femoris       33.9
+ Adductor Longus      31.9
+ Tibialis Anterior    53.6
+ Triceps Surae        41.3
+
+
+TIME 1.68 SECONDS
+MUSCLE               EMG (uVolts)
+ Erector Spinae       21.9
+ Gluteus Maximus      17.0
+ Gluteus Medius       50.5
+ Hamstrings           39.2
+ Rectus Femoris       29.1
+ Adductor Longus      30.5
+ Tibialis Anterior    46.6
+ Triceps Surae        39.8
+
+END OF FILE
